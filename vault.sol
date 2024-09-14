@@ -2,7 +2,7 @@
 pragma solidity ^0.8.17;
 
 contract ERC20 {
-    string public name = "SUBNET";
+    string public name = "HARSH";
     string public symbol = "GTM";
     uint8 public decimals = 18;
     uint public totalSupply;
